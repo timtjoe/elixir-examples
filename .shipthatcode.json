@@ -1,0 +1,70 @@
+{
+  "course": "elixir-fundamentals",
+  "language": "elixir",
+  "language_id": 57,
+  "entrypoint": "main.exs",
+  "version": 1,
+  "content_hash": "548e40323b1913ee",
+  "lessons": [
+    {
+      "slug": "hello-world",
+      "tests_hash": "c91540087ad3"
+    },
+    {
+      "slug": "variables-and-types",
+      "tests_hash": "4ccc141f8a2f"
+    },
+    {
+      "slug": "numbers-and-math",
+      "tests_hash": "69adc0cc5957"
+    },
+    {
+      "slug": "strings",
+      "tests_hash": "3e0efc801a4c"
+    },
+    {
+      "slug": "pattern-matching",
+      "tests_hash": "eb06fa6128a5"
+    },
+    {
+      "slug": "case-cond-if",
+      "tests_hash": "1720a777f726"
+    },
+    {
+      "slug": "recursion-and-enum",
+      "tests_hash": "d936b3338ca8"
+    },
+    {
+      "slug": "modules-and-functions",
+      "tests_hash": "4e6757737a4d"
+    },
+    {
+      "slug": "pipe-operator",
+      "tests_hash": "8d22a2329944"
+    },
+    {
+      "slug": "lists-and-tuples",
+      "tests_hash": "824618d94a04"
+    },
+    {
+      "slug": "maps",
+      "tests_hash": "6da2ebbae97c"
+    },
+    {
+      "slug": "enum-and-stream",
+      "tests_hash": "2ef2107d7b83"
+    },
+    {
+      "slug": "atoms-keywords",
+      "tests_hash": "474f8124a01b"
+    },
+    {
+      "slug": "anonymous-fn",
+      "tests_hash": "a69f9c72d729"
+    },
+    {
+      "slug": "comprehensions",
+      "tests_hash": "c2359c361819"
+    }
+  ]
+}
